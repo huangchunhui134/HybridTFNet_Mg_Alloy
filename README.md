@@ -1,0 +1,2 @@
+# HybridTFNet_Mg_Alloy
+这是一个用来实现HybridTFNet在镁合金高准确率识别分类的项目
